@@ -22,9 +22,13 @@ This project analyzes Blinkit’s grocery sales data to evaluate product perform
 ## 🖼️ Dashboard Screenshots
 Below are some snapshots of the final dashboard:
 
-![Screenshot 1](Blinkit_Dashboard_Screenshots/ss1.png)  
-![Screenshot 2](Blinkit_Dashboard_Screenshots/ss2.png)  
-![Screenshot 3](Blinkit_Dashboard_Screenshots/ss3.png)  
+![Screenshot 1](Blinkit_Dashboard_Screenshots/ss1.png) 
+
+![Screenshot 2](Blinkit_Dashboard_Screenshots/ss2.png) 
+
+![Screenshot 3](Blinkit_Dashboard_Screenshots/ss3.png) 
+
+![Screenshot 3](Blinkit_Dashboard_Screenshots/ss4.png) 
 
 ## 📂 Project File
 You can explore or download the dashboard here:  
