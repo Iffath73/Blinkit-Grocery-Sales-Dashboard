@@ -6,7 +6,7 @@ This project analyzes Blinkit grocery sales data to evaluate item performance, o
 ## 🛠 Tools & Technologies
 - **Power BI (Desktop):** Dashboard creation and visualization  
 - **DAX:** KPI calculations (Total Sales, Average Sales, Number of Items, Average Rating)  
-- **Excel (Office 2021):** Supplementary data cleaning and validation  
+- **Excel:** Supplementary data cleaning and validation  
 
 ## ⚙️ Project Workflow
 
