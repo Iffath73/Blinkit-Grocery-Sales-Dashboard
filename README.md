@@ -48,7 +48,7 @@ This project analyzes Blinkit grocery sales data to evaluate item performance, o
 
 ## 🖼️ Dashboard Screenshots
 
-![Screenshot 1](Screenshots/ss1.png)
+![Screenshot 1](Blinkit_Dashboard_Screenshots/ss4.png)
 
 
 ## 🧩 Skills Learned
