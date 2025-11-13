@@ -1,40 +1,65 @@
 # Blinkit Grocery Sales Dashboard using Power BI
 
 ## 📊 Project Overview
-This project analyzes Blinkit’s grocery sales data to evaluate product performance, outlet trends, and customer ratings across different regions. The goal is to gain insights that support data-driven decision-making.
+This project analyzes Blinkit grocery sales data to evaluate item performance, outlet trends, and customer ratings across regions. The goal is to provide actionable insights for operational decision-making through an interactive Power BI dashboard.
 
-## 🧩 Tools Used
-- **Power BI** – for data visualization and dashboard creation  
-- **Power Query Editor** – for cleaning and transforming data  
-- **DAX** – for creating KPIs (Total Sales, Average Sales, Average Rating, Items Sold)  
+## 🛠 Tools & Technologies
+- **Power BI (Desktop):** Dashboard creation and visualization  
+- **DAX:** KPI calculations (Total Sales, Average Sales, Number of Items, Average Rating)  
+- **Excel (Office 2021):** Supplementary data cleaning and validation  
 
-## ⚙️ Key Steps
-1. Imported and cleaned the grocery sales dataset  
-2. Replaced inconsistent values (e.g., LF → Low Fat, reg → Regular, TF → Total Fat)  
-3. Created DAX measures to calculate KPIs  
-4. Designed an interactive Power BI dashboard with filters and visuals  
+## ⚙️ Project Workflow
 
-## 📈 Dashboard Highlights
-- KPIs: Total Sales, Average Sales, Average Rating, Number of Items  
-- Visuals: Sales by Item Type, Sales by Outlet Type, Fat Content Distribution, Yearly Trends  
-- Interactive filters for outlet size, location type, and item category  
+### 1. Data Preparation
+- Imported and cleaned grocery sales dataset  
+- Calculated KPIs: Total Sales, Average Sales, Number of Items, Average Rating  
+
+### 2. Power BI Dashboard
+- Built interactive dashboards with charts and slicers  
+- Applied DAX measures for KPI calculations  
+- Customized dashboard with a **purple-themed color palette**  
+
+## 📈 Dashboards & KPIs
+
+### **KPIs (Top Section)**
+- Total Sales  
+- Average Sales  
+- Number of Items  
+- Average Rating  
+
+### **Charts & Visuals**
+1. Total Sales by Fat Content  
+   - Additional KPIs: Average Sales, Number of Items, Average Rating  
+
+2. Total Sales by Item Type  
+   - Additional KPIs: Average Sales, Number of Items, Average Rating  
+
+3. Fat Content by Outlet for Total Sales  
+   - Additional KPIs: Average Sales, Number of Items, Average Rating  
+
+4. Total Sales by Outlet Establishment  
+
+5. Percentage of Sales by Outlet Size  
+
+6. Sales by Outlet Location  
+
+7. All Metrics by Outlet Type  
+   - Displays Total Sales, Average Sales, Number of Items, Average Rating by outlet type  
 
 ## 🖼️ Dashboard Screenshots
-Below are some snapshots of the final dashboard:
 
-![Screenshot 1](Blinkit_Dashboard_Screenshots/ss4.png) 
+![Screenshot 1](Screenshots/ss1.png)
 
-![Screenshot 2](Blinkit_Dashboard_Screenshots/ss1.png) 
 
-![Screenshot 3](Blinkit_Dashboard_Screenshots/ss2.png) 
+## 🧩 Skills Learned
+- **Power BI:** Data modeling, DAX measures, calculated columns, slicers, dashboard design  
+- **Excel:** Data validation and preliminary analysis  
 
-![Screenshot 3](Blinkit_Dashboard_Screenshots/ss3.png) 
-
-## 📂 Project File
-You can explore or download the dashboard here:  
-👉 [Blinkit_Dashboard.pbix](Blinkit_Dashboard.pbix)
+## 🎯 Outcome
+- Developed a comprehensive dashboard to monitor key metrics and trends  
+- Provided actionable insights for operational decision-making  
 
 ---
 
-**Author:** Iffath
+**Author:** Iffath 
 **Project Type:** Data Analysis / Business Intelligence
